@@ -7,6 +7,12 @@
       "contacts": "100",
       "description":"Official website of Nepal Police",
     },
+     {
+      "name": "Nepal Army",
+      "url": "https://www.nepalarmy.mil.np/",
+      "contacts": "014269624",
+      "description":"Official website of Nepal Army",
+    },
   ]
 }
     
