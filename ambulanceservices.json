@@ -25,6 +25,12 @@
       "contacts": "9808083566",
       "description":"Contacts of Kanchan village health post",
     },
+    {
+      "name": "B.P. Koirala Institute of Health Science",
+      "url": "https://bpkihs.edu/",
+      "contacts": "9845052350",
+      "description":"Contacts of B.P. Koirala Institute of Health Science", 
+    },
     
   ]
 }
